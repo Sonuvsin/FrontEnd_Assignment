@@ -1,0 +1,19 @@
+body{ background-color: greenyellow;}
+
+
+p.groove {border: 10px solid black;
+  margin: auto;  
+  padding: 20px;
+  text-align: center }
+p.ridge {border: 7px solid black;
+  margin: auto;  
+  padding: 20px;
+  text-align: center}
+p.inset {border: 5px solid black;
+  margin: auto;  
+  padding: 20px;
+  text-align: center}
+p.outset {border: 2px solid black;
+  margin: auto;  
+  padding: 20px;
+  text-align: center}
